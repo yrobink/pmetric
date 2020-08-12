@@ -40,3 +40,13 @@ vignettes/*.pdf
 
 ## tmp file
 *.swp
+
+## Remove manual files
+pmetric/man/*.Rd
+
+## remove Rcpp files
+pmetric/src/*.so
+pmetric/src/*.o
+pmetric/src/RcppExports.cpp
+pmetric/R/RcppExports.R
+
