@@ -82,7 +82,7 @@
 
 #' pmetric
 #'
-#' Statistical Bias Correction Kit.
+#' Pairwise metrics.
 #'
 #' @docType package
 #' @author Yoann Robin Maintainer: Yoann Robin <yoann.robin.k@gmail.com>
