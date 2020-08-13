@@ -4,7 +4,10 @@ Title: Pairwise distances
 Version: 1.0.0
 Date: 2020-08-12
 Authors@R: person("Yoann", "Robin", email = "yoann.robin.k@gmail.com", role = c("aut", "cre"))
-Description: This package is a c++ implementation of pairwise distances.
+Description: This package is a c++ implementation of pairwise distances. The
+             distances can be computed between the rows of the same matrix, or
+             the rows of two matrix. Some metric, as euclidean, are defined in
+             c++, and compiled. Custom metrics can be used, but are slower.
 Depends: R (>= 3.3)
 License: CeCILL-2
 Encoding: UTF-8
