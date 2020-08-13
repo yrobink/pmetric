@@ -1,7 +1,7 @@
 Package: pmetric
 Type: Package
 Title: Pairwise distances
-Version: 1.0.0
+Version: 1.0.1
 Date: 2020-08-12
 Authors@R: person("Yoann", "Robin", email = "yoann.robin.k@gmail.com", role = c("aut", "cre"))
 Description: This package is a c++ implementation of pairwise distances. The
